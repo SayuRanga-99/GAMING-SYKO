@@ -14,7 +14,7 @@ var diamondPacks = [
     { id: 6, name: "2180 Pack", price: 6000, badge: null, icon: "fas fa-gem", note: "Pro players choice" },
     { id: 7, name: "5600 Pack", price: 15000, badge: null, icon: "fas fa-gem", note: "Ultra premium pack" },
     { id: 8, name: "lite", price: 110, badge: null, icon: "fas fa-gem", note: "Budget option" },
-    { id: 9, name: "Weekly", price: 500, badge: null, icon: "fas fa-calendar-week", note: "Weekly subscription" },
+    { id: 9, name: "Weekly", price: 490, badge: null, icon: "fas fa-calendar-week", note: "Weekly subscription" },
     { id: 10, name: "Monthly", price: 2470, badge: "bestseller", icon: "fas fa-crown", note: "Best deal monthly pass" },
     { id: 11, name: "VIP", price: 2950, badge: null, icon: "fas fa-gem", note: "VIP benefits included" },
     { id: 12, name: "S. VIP", price: 4450, badge: null, icon: "fas fa-star", note: "Super VIP exclusive" }
